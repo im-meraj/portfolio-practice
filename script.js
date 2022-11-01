@@ -86,7 +86,7 @@ tl
         ease: Expo.easeInOut,
     })
     .to("#hero-section #hero-mobile .parentm .childm", {
-        y: "-10%",
+        y: "0%",
         opacity: 1,
         duration: 2,
         delay: -6,
